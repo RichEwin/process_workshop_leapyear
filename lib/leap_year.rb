@@ -1,4 +1,4 @@
 class LeapYear
-  def year
+  def year(year)
   end
 end
