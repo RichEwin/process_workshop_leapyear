@@ -1,2 +1,4 @@
 class LeapYear
-end 
+  def year
+  end
+end
