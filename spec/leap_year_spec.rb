@@ -6,6 +6,6 @@ describe LeapYear do
   end
 
   it 'receives a year and confirms if it is or isnt a leap year' do
-    expect(subject).to respond_to(:year)
-  end 
+    expect(subject).to respond_to(:year).with(1).arguments
+  end
 end
