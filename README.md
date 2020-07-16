@@ -13,6 +13,7 @@ I would like a simple tool that will tell me whether a year is a leap year, acco
 
 - Programming Language: Ruby
 - Testing Framework: Rspec
+- Code Linter: Rubocop
 
 ## How to run
 
